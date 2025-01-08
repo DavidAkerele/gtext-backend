@@ -1,0 +1,20 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+npm-debug.log*
+
+# Temporary files
+*.tmp
+
+# Debug and IDE-specific files
+.vscode/
+.idea/
+.DS_Store
+
+# Build output
+/dist
